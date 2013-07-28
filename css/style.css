@@ -1,0 +1,18 @@
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.geral {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.topo h1 {
+	width: 50%;
+	margin: 0 auto;
+	font-size: 35px;
+	font-style: italic;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
