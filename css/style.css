@@ -1,10 +1,20 @@
 body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
 }
 
-.geral {
-	width: 960px;
-	margin: 0 auto;
+strong {
+	font-weight: bold;
+}
+
+.topo {
+	width: 100%;
+	background: #EAEAE8 url(../img/bg-topo.png) repeat;
+	padding: 25px 0;
+	margin: 0 0 10px 0;
+	position: fixed;
+	z-index: 9999;
+	border-bottom: 3px #ccc solid;
 }
 
 .topo h1 {
@@ -15,4 +25,93 @@ body {
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	color: #ccc;
+}
+
+.geral {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+	top: 125px;
+}
+
+.conteudo {
+	width: 100%;
+	float: left;
+}
+
+.box {
+	background: #F7F7F7;
+	border: 3px #efefef solid;
+	padding: 5px;
+}
+
+.curriculo {
+	width: 700px;
+	float: left;
+}
+
+.contato {
+	width: 215px;
+	float: right;
+}
+
+.contato ul li {
+	margin-bottom: 5px;
+}
+
+.titulo {
+	font-size: 16px;
+	margin-bottom: 10px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-bottom: 1px #ccc dotted;
+	padding-bottom: 5px;
+	color: #666666;
+}
+
+.sub-titulo {
+	color: #999;
+	font-weight: bold;
+	margin: 10px 0 5px;
+}
+
+.texto {
+	color: #999;
+}
+
+ul.texto li {
+	margin-bottom: 10px;
+}
+ul.texto li ol {
+	margin: 10px;	
+}
+ul.texto li ol li {
+	margin: 0 0 5px 0;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.linha {
+	background: #ccc;
+	height: 1px;
+	width: 100%;
+	margin: 10px 0;
+	display: block;
+}
+
+.margem {
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 11px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
