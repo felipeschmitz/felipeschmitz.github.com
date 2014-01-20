@@ -1,0 +1,157 @@
+{
+	"itens": [
+		{
+			"cliente": "Imobiliária Ducati",
+			"descricao": "",
+			"link": "http://www.imobiliariaducati.com.br",
+			"tracking": "",
+			"imagem" : "imobiliaria-ducati",
+			"ordem": "1",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Muck",
+			"descricao": "",
+			"link": "http://www.muck.com.br",
+			"tracking": "",
+			"imagem" : "muck",
+			"ordem": "2",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Hiroshima",
+			"descricao": "",
+			"link": "http://www.hiroshima.com.br",
+			"tracking": "",
+			"imagem" : "hiroshima",
+			"ordem": "3",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Ferramentas Taurus",
+			"descricao": "",
+			"link": "http://www.ferramentastaurus.com.br",
+			"tracking": "",
+			"imagem" : "ferramentas-taurus",
+			"ordem": "4",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Nexgroup",
+			"descricao": "",
+			"link": "http://www.nexgroup.com.br",
+			"tracking": "",
+			"imagem" : "nexgroup",
+			"ordem": "5",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Dimóvel",
+			"descricao": "",
+			"link": "http://www.dimovel.com.br",
+			"tracking": "",
+			"imagem" : "dimovel",
+			"ordem": "6",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Sebrae RS",
+			"descricao": "",
+			"link": "http://www.sebrae-rs.com.br",
+			"tracking": "",
+			"imagem" : "sebrae-rs",
+			"ordem": "7",
+			"ativo": "1"
+		},
+		{
+			"cliente": "IELB",
+			"descricao": "",
+			"link": "http://www.ielb.org.br",
+			"tracking": "",
+			"imagem" : "ielb",
+			"ordem": "8",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Vera Zaffari Arquitetura",
+			"descricao": "",
+			"link": "http://www.verazaffari.com.br",
+			"tracking": "",
+			"imagem" : "vera-zafarri",
+			"ordem": "9",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Spadari TI",
+			"descricao": "",
+			"link": "http://www.spadariti.com.br",
+			"tracking": "",
+			"imagem" : "spadari-ti",
+			"ordem": "10",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Cabanellos Schuh",
+			"descricao": "",
+			"link": "http://www.cabanellos.com.br",
+			"tracking": "",
+			"imagem" : "cabanellos-schuh",
+			"ordem": "11",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Marma Construções",
+			"descricao": "",
+			"link": "http://www.marmaconstrucoes.com.br",
+			"tracking": "",
+			"imagem" : "marma-construcoes",
+			"ordem": "12",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Advice",
+			"descricao": "",
+			"link": "http://www.advice.inf.br",
+			"tracking": "",
+			"imagem" : "advice",
+			"ordem": "13",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Ceasa RS",
+			"descricao": "",
+			"link": "http://www.ceasars.com.br",
+			"tracking": "",
+			"imagem" : "ceasa-rs",
+			"ordem": "14",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Black Pixel Studio",
+			"descricao": "",
+			"link": "http://www.blackpixel.com.br",
+			"tracking": "",
+			"imagem" : "black-pixel",
+			"ordem": "15",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Vilson Covatti",
+			"descricao": "",
+			"link": "http://www.vilsoncovatti.com.br",
+			"tracking": "",
+			"imagem" : "vilson-covatti",
+			"ordem": "16",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Feitas Macedo & Dalcin Advogados Associados",
+			"descricao": "",
+			"link": "http://www.fmda.com.br",
+			"tracking": "",
+			"imagem": "fmda",
+			"ordem": "17",
+			"ativo": "1"
+		}
+	]
+}
