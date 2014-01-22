@@ -4,7 +4,7 @@
 			"cliente": "Imobiliária Ducati",
 			"descricao": "",
 			"link": "http://www.imobiliariaducati.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Imobiliária Ducati','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Imobiliária Ducati','Acesso ao cliente','');",
 			"imagem" : "imobiliaria-ducati",
 			"ordem": "1",
 			"ativo": "1"
@@ -13,7 +13,7 @@
 			"cliente": "Muck",
 			"descricao": "",
 			"link": "http://www.muck.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Muck','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Muck','Acesso ao cliente','');",
 			"imagem" : "muck",
 			"ordem": "2",
 			"ativo": "1"
@@ -22,7 +22,7 @@
 			"cliente": "Hiroshima",
 			"descricao": "",
 			"link": "http://www.hiroshima.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Hiroshima','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Hiroshima','Acesso ao cliente','');",
 			"imagem" : "hiroshima",
 			"ordem": "3",
 			"ativo": "1"
@@ -31,7 +31,7 @@
 			"cliente": "Ferramentas Taurus",
 			"descricao": "",
 			"link": "http://www.ferramentastaurus.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Ferramentas Taurus','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Ferramentas Taurus','Acesso ao cliente','');",
 			"imagem" : "ferramentas-taurus",
 			"ordem": "4",
 			"ativo": "1"
@@ -40,7 +40,7 @@
 			"cliente": "Nexgroup",
 			"descricao": "",
 			"link": "http://www.nexgroup.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Nexgroup','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Nexgroup','Acesso ao cliente','');",
 			"imagem" : "nexgroup",
 			"ordem": "5",
 			"ativo": "1"
@@ -49,7 +49,7 @@
 			"cliente": "Dimóvel",
 			"descricao": "",
 			"link": "http://www.dimovel.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Dimóvel','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Dimóvel','Acesso ao cliente','');",
 			"imagem" : "dimovel",
 			"ordem": "6",
 			"ativo": "1"
@@ -58,7 +58,7 @@
 			"cliente": "Sebrae RS",
 			"descricao": "",
 			"link": "http://www.sebrae-rs.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Sebrae RS','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Sebrae RS','Acesso ao cliente','');",
 			"imagem" : "sebrae-rs",
 			"ordem": "7",
 			"ativo": "1"
@@ -67,7 +67,7 @@
 			"cliente": "IELB",
 			"descricao": "",
 			"link": "http://www.ielb.org.br",
-			"tracking": "_gaq.push(['_trackEvent','IELB','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Acesso ao cliente','');",
 			"imagem" : "ielb",
 			"ordem": "8",
 			"ativo": "1"
@@ -76,7 +76,7 @@
 			"cliente": "Vera Zaffari Arquitetura",
 			"descricao": "",
 			"link": "http://www.verazaffari.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Vera Zafarri Arquitetura','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Vera Zafarri Arquitetura','Acesso ao cliente','');",
 			"imagem" : "vera-zafarri",
 			"ordem": "9",
 			"ativo": "1"
@@ -85,7 +85,7 @@
 			"cliente": "Spadari TI",
 			"descricao": "",
 			"link": "http://www.spadariti.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Spadari TI','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Spadari TI','Acesso ao cliente','');",
 			"imagem" : "spadari-ti",
 			"ordem": "10",
 			"ativo": "1"
@@ -94,7 +94,7 @@
 			"cliente": "Cabanellos Schuh",
 			"descricao": "",
 			"link": "http://www.cabanellos.com.br",
-			"tracking": "",
+			"tracking": "ga('send','event','Cabanellos Schuh','Acesso ao cliente','');",
 			"imagem" : "cabanellos-schuh",
 			"ordem": "11",
 			"ativo": "1"
@@ -103,7 +103,7 @@
 			"cliente": "Marma Construções",
 			"descricao": "",
 			"link": "http://www.marmaconstrucoes.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Marma Construções','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Marma Construções','Acesso ao cliente','');",
 			"imagem" : "marma-construcoes",
 			"ordem": "12",
 			"ativo": "1"
@@ -112,7 +112,7 @@
 			"cliente": "Advice",
 			"descricao": "",
 			"link": "http://www.advice.inf.br",
-			"tracking": "_gaq.push(['_trackEvent','Advice','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Advice','Acesso ao cliente','');",
 			"imagem" : "advice",
 			"ordem": "13",
 			"ativo": "1"
@@ -121,7 +121,7 @@
 			"cliente": "Ceasa RS",
 			"descricao": "",
 			"link": "http://www.ceasars.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Ceasa RS','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Ceasa RS','Acesso ao cliente','');",
 			"imagem" : "ceasa-rs",
 			"ordem": "14",
 			"ativo": "1"
@@ -130,7 +130,7 @@
 			"cliente": "Black Pixel Studio",
 			"descricao": "",
 			"link": "http://www.blackpixel.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Black Pixel Studio','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Black Pixel Studio','Acesso ao cliente','');",
 			"imagem" : "black-pixel",
 			"ordem": "15",
 			"ativo": "1"
@@ -139,7 +139,7 @@
 			"cliente": "Vilson Covatti",
 			"descricao": "",
 			"link": "http://www.vilsoncovatti.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Vilson Covatti','Acesso ao cliente','']);",
+			"tracking": "_gaq.push(['ga('send','event','Vilson Covatti','Acesso ao cliente','');",
 			"imagem" : "vilson-covatti",
 			"ordem": "16",
 			"ativo": "1"
@@ -148,7 +148,7 @@
 			"cliente": "Feitas Macedo & Dalcin Advogados Associados",
 			"descricao": "",
 			"link": "http://www.fmda.com.br",
-			"tracking": "_gaq.push(['_trackEvent','Feitas Macedo & Dalcin Advogados Associados','Acesso ao cliente','']);",
+			"tracking": "ga('send','event','Feitas Macedo & Dalcin Advogados Associados','Acesso ao cliente','');",
 			"imagem": "fmda",
 			"ordem": "17",
 			"ativo": "1"
