@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    display: inline-block;
+    background: #fff;
+    position: relative;
+
+    .infos {
+        width: 255px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -60%);
+        text-align: center;
+        z-index: 9999;
+        background: #f5f5f5;
+        padding: 10px;
+
+        .img {
+            width: 70%;
+            display: inline-block;
+            border: 5px #fff solid;
+        }
+    }
+
+    h1, a {
+        color: #636b6f;
+    }
+
+    a {
+        font-size: 20px;
+
+        &:hover {
+            color: #ccc;
+            text-decoration: none;
+        }
+    }
+
+
+}

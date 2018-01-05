@@ -6,20 +6,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
     <meta name="author" content="">
-	<link rel="stylesheet" type="text/css" href="assets/components/bootstrap/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+	<link rel="stylesheet" type="text/css" href="/dist/app.css">
 </head>
 <body>
 	<header>
+		<div class="destaque"></div>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-3 col-lg-offset-4 col-md-3 col-md-offset-4 col-sm-12 col-xs-12 text-center estabelize">
-					<img src="assets/img/bio.jpg" class="img-responsive img-thumbnail">
+				<div class="infos">
+					<img src="/dist/images/bio.jpg" class="img-responsive img-circle img">
 					<h1>Felipe Schmitz</h1>
-					<p><a href="https://www.linkedin.com/in/felipe-schmitz-1b349425" target="_blank"><span class="fa fa-linkedin-square"></span> /felipe-schmitz-1b349425</a></p>
-					<p><a href="https://www.facebook.com/o.felipe.schmitz" target="_blank"><span class="fa fa-facebook-official"></span> /o.felipe.schmitz</a></p>
+					<p><a href="https://www.linkedin.com/in/felipe-schmitz-1b349425" target="_blank"><span class="fa fa-linkedin-square"></span> /linkedin</a></p>
+					<p><a href="https://www.facebook.com/o.felipe.schmitz" target="_blank"><span class="fa fa-facebook-official"></span> /facebook</a></p>
 					<p><a href="mailto:schmitz.felipe@gmail.com"><span class="fa fa-envelope"></span> schmitz.felipe@gmail.com</a></p>
-					<p><a href="tel:555181227017"><span class="fa fa-phone-square"></span> +55 51 8122.7017</a></p>
+					<p><a href="tel:5551981227017"><span class="fa fa-phone-square"></span> +55 51 98122.7017</a></p>
 				</div>
 			</div>
 		</div>
@@ -31,9 +31,10 @@
 					<h2>Sobre</h2>
 					<p>Sempre gostei de tecnologia... desde a primeira vez que eu vi um pc (na época nem windows existia). Quando eu ganhei o meu primeio pc, comecei as minhas aventuras em fuçar... aprender...</p>
 					<p>Quando comecei aprender a fazer páginas para internet (na época a internet era discada) fiz o meu primeio site pessoal, na época cheia de coisas que eu pegava de outros sites, muitas vezes urls quebradas, nem fazia questão de testar (na época era assim, todo mundo pegava e não testava).</p>
-					<p>Hoje tenho experiência para em criação de sites e sistemas, tenho facilidade em trabalhar em equipe.</p>
+					<p>Hoje tenho experiência na criação de sites e sistemas e tenho facilidade para trabalhar em equipe.</p>
 					<p>Qualquer coisa é só entrar em <a href="#">contato</a>.</p>
-					<h3>Formação Acadêmica / Corsos</h3>
+					<h3>Formação Acadêmica / Cursos</h3>
+					<p>Sistemas para Internet (em andamento) - Faculdade Senac</p>
 					<p>Treinamento de Projetos Ágeis com Scrum – TargetTrust;</p>
 					<h3>Resumo de Qualificações</h3>
 					<ul>
@@ -86,6 +87,18 @@
 					</ul>
 					<h3>Experiências Profissionais</h3>
 					<ul>
+						<li>
+							<strong>ChiliMonk</strong> - Agosto de 2016 até Agosto 2017
+							<ul>
+								<li>
+									<strong>Desenvolvedor Web</strong>
+									<ul>
+										<li>Criação de Site;</li>
+										<li>Manutenção de Sites;</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
 						<li>
 							<strong>N49</strong> - Junho de 2015 até Novembro 2015
 							<ul>
@@ -143,7 +156,7 @@
 									<ul>
 										<li>Criação de Portais;</li>
 										<li>Criação de Sites;</li>
-										<li>Criação de alto nível do sistema;</li>
+										<li>Criação de sistems de alta complexidade</li>
 									</ul>
 								</li>
 							</ul>
@@ -153,19 +166,11 @@
 			</div>
 		</div>
 	</section>
-	<section id="portifolio">
-		<div id="myCarousel" class="carousel slide" data-ride="carousel"> 
-			<div class="carousel-inner">
-			</div>
-			<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-		</div>
-	</section>
+	
 	<footer>
 		Felipe Schmitz : Todos os direitos reservados
 	</footer>
-	<script type="text/javascript" src="assets/components/jquery/dist/jquery.min.js"></script>
-	<script type="text/javascript" src="assets/components/bootstrap/dist/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="assets/js/main.js"></script>
+	<script src="/dist/app.js"></script>
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

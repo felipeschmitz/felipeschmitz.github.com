@@ -1,0 +1,184 @@
+{
+	"itens": [
+		{
+			"cliente": "Imobiliária Ducati",
+			"descricao": "Manutenção do site e criação de novas funcionalidades, backend e frontend",
+			"link": "http://www.imobiliariaducati.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.imobiliariaducati.com.br');",
+			"imagem" : "imobiliaria-ducati",
+			"ordem": "1",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Muck",
+			"descricao": "Manutenção do site, backend e frontend",
+			"link": "http://www.muck.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.muck.com.br');",
+			"imagem" : "muck",
+			"ordem": "2",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Hiroshima",
+			"descricao": "Manutenção do site, backend e frontend",
+			"link": "http://www.hiroshima.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.hiroshima.com.br');",
+			"imagem" : "hiroshima",
+			"ordem": "3",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Ferramentas Taurus",
+			"descricao": "Manutenção do site, backend",
+			"link": "http://www.ferramentastaurus.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.ferramentastaurus.com.br');",
+			"imagem" : "ferramentas-taurus",
+			"ordem": "4",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Nexgroup",
+			"descricao": "Manutenção do site e criação de novas funcionalidades, backend e frontend ",
+			"link": "http://www.nexgroup.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.nexgroup.com.br');",
+			"imagem" : "nexgroup",
+			"ordem": "5",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Dimóvel",
+			"descricao": "Manutenção do site, backend e frontend",
+			"link": "http://www.dimovel.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.dimovel.com.br');",
+			"imagem" : "dimovel",
+			"ordem": "6",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Sebrae RS",
+			"descricao": "Manutenção do site e criação de funcionalidades, backend e frontend",
+			"link": "http://www.sebrae-rs.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.sebrae-rs.com.br');",
+			"imagem" : "sebrae-rs",
+			"ordem": "7",
+			"ativo": "1"
+		},
+		{
+			"cliente": "IELB",
+			"descricao": "Criação do site, backend e frontend",
+			"link": "http://www.ielb.org.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.ielb.org.br');",
+			"imagem" : "ielb",
+			"ordem": "8",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Vera Zaffari Arquitetura",
+			"descricao": "Manutenção do site, backend",
+			"link": "http://www.verazaffari.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.verazaffari.com.br');",
+			"imagem" : "vera-zafarri",
+			"ordem": "9",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Spadari TI",
+			"descricao": "Criação do site, backend e frontend",
+			"link": "http://www.spadariti.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.spadariti.com.br');",
+			"imagem" : "spadari-ti",
+			"ordem": "10",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Cabanellos Schuh",
+			"descricao": "Criação do site, backend e frontend",
+			"link": "http://www.cabanellos.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.cabanellos.com.br');",
+			"imagem" : "cabanellos-schuh",
+			"ordem": "11",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Marma Construções",
+			"descricao": "Manutenção do site, backend e frontend",
+			"link": "http://www.marmaconstrucoes.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.marmaconstrucoes.com.br');",
+			"imagem" : "marma-construcoes",
+			"ordem": "12",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Advice",
+			"descricao": "Manutenção do site, backend e frontend",
+			"link": "http://www.advice.inf.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.advice.inf.br');",
+			"imagem" : "advice",
+			"ordem": "13",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Ceasa RS",
+			"descricao": "Criação do site, backend e frontend",
+			"link": "http://www.ceasars.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.ceasars.com.br');",
+			"imagem" : "ceasa-rs",
+			"ordem": "14",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Black Pixel Studio",
+			"descricao": "Implementação de layout, frontend",
+			"link": "http://www.blackpixel.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.blackpixel.com.br');",
+			"imagem" : "black-pixel",
+			"ordem": "15",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Vilson Covatti",
+			"descricao": "Criação do site, frontend e backend",
+			"link": "http://www.vilsoncovatti.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.vilsoncovatti.com.br');",
+			"imagem" : "vilson-covatti",
+			"ordem": "16",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Feitas Macedo & Dalcin Advogados Associados",
+			"descricao": "Criação do site, frontend e backend",
+			"link": "http://www.fmda.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.fmda.com.br');",
+			"imagem": "fmda",
+			"ordem": "17",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Imobiliária SEI",
+			"descricao": "Manutenção do site e criação de novas funcionalidades, backend e frontend",
+			"link": "http://www.agoraeusei.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.agoraeusei.com.br');",
+			"imagem": "imobiliaria-sei",
+			"ordem": "18",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Nerd Universe",
+			"descricao": "Implementação de layout, frontend",
+			"link": "http://www.nerduniverse.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.nerduniverse.com.br');",
+			"imagem": "nerd-universe",
+			"ordem": "19",
+			"ativo": "1"
+		},
+		{
+			"cliente": "Mercado TodoDia",
+			"descricao": "Implementação de layout, backend e frontend",
+			"link": "http://www.mercadotododia.com.br",
+			"tracking": "ga('send','event','affiliate','click','http://www.mercadotododia.com.br');",
+			"imagem": "mercado-tododia",
+			"ordem": "20",
+			"ativo": "1"
+		}
+	]
+}
