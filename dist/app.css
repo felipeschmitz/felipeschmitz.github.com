@@ -11434,17 +11434,29 @@ header .infos .img {
   border: 5px #fff solid;
 }
 
+header h1 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
 header h1,
 header a {
   color: #636b6f;
 }
 
+header p {
+  margin-bottom: 5px;
+}
+
 header a {
   font-size: 20px;
+  -webkit-transition: color 1s;
+  transition: color 1s;
 }
 
 header a:hover {
-  color: #ccc;
+  color: #999;
   text-decoration: none;
 }
 

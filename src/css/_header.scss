@@ -22,15 +22,26 @@ header {
         }
     }
 
+    h1 {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
     h1, a {
         color: #636b6f;
     }
 
+    p {
+        margin-bottom: 5px;
+    }
+
     a {
         font-size: 20px;
+        transition: color 1s;
 
         &:hover {
-            color: #ccc;
+            color: #999;
             text-decoration: none;
         }
     }
